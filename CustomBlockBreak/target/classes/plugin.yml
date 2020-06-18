@@ -1,0 +1,5 @@
+name: CustomBlockBreak
+version: 1.0-SNAPSHOT
+main: me.gilan.customblockbreak.Main
+authors: [Gilan]
+description: Allows Certain blocks to change form or not break when broken by not oped players.
