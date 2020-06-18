@@ -11,6 +11,11 @@ import org.bukkit.inventory.ItemStack;
 import static org.bukkit.event.block.Action.RIGHT_CLICK_BLOCK;
 
 public class ManualReset implements Listener {
+        
+    /*
+    NOTE - FILE IS NOT IN USE
+    */
+        
         public boolean isStick = false;
 
         ItemStack stick = new ItemStack(Material.STICK);
