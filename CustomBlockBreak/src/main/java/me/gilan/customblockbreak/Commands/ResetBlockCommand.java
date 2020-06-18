@@ -8,6 +8,9 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class ResetBlockCommand extends JavaPlugin {
 
+    /*
+    NOTE - FILE IS NOT IN USE
+    */
 
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if(command.getName().equals("sbresetblocks")){
